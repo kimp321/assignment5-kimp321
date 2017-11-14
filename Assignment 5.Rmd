@@ -76,7 +76,6 @@ D2$prediction <- predict(score_ctree, D2)
 
 ``` 
 ## Part III
-<<<<<<< HEAD
 Compare the predicted advice with the actual advice that these students recieved. What is the difference between the observed and predicted results?
 
 ```{r}
